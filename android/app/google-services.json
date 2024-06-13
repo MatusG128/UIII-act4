@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24285876851",
+    "project_id": "my-farebase",
+    "storage_bucket": "my-farebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24285876851:android:a9a0456c1b152c07615006",
+        "android_client_info": {
+          "package_name": "com.matus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPecM45HAFAqmREVZUSlRQRW3zV77zcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
